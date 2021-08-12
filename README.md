@@ -20,6 +20,8 @@ Todos son bienvenidos a tomar el curso, sin embargo, es recomendable tener habil
 # Índice
 
 - [Sesión 1 (3 agosto)](./sesion1/): Ejercicios generales de Haskell.
+- [Sesión 2 (5 agosto)](./sesion2/): Más ejercicios de Haskell.
+- [Sesión 3 (10 agosto)](./sesion3/): Tipos en Haskell: `newtype`, records, polimorfismo.
 
 # Plataforma
 
