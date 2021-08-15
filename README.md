@@ -22,6 +22,7 @@ Todos son bienvenidos a tomar el curso, sin embargo, es recomendable tener habil
 - [Sesión 1 (3 agosto)](./sesion1/): Ejercicios generales de Haskell.
 - [Sesión 2 (5 agosto)](./sesion2/): Más ejercicios de Haskell.
 - [Sesión 3 (10 agosto)](./sesion3/): Tipos en Haskell: `newtype`, records, polimorfismo.
+- [Sesión 3.2 (12 agosto)](./sesion3/): Tipos en Haskell: clases.
 
 # Plataforma
 
@@ -51,7 +52,6 @@ El curso abarcará los siguientes temas:
   - Estilo libre de puntos.
   - Composición de funciones.
   - Aplicación de funciones.
-  - Kinds.
 - Álgebras.
   - Semigrupos.
   - Monoides.
