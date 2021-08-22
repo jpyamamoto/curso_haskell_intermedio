@@ -23,6 +23,8 @@ Todos son bienvenidos a tomar el curso, sin embargo, es recomendable tener habil
 - [Sesión 2 (5 agosto)](./sesion2/): Más ejercicios de Haskell.
 - [Sesión 3 (10 agosto)](./sesion3/): Tipos en Haskell: `newtype`, records, polimorfismo.
 - [Sesión 3.2 (12 agosto)](./sesion3/): Tipos en Haskell: clases.
+- [Sesión 4 (17 agosto)](./sesion4/): Funciones: operadores y otras mejoras sintácticas.
+- [Sesión 4.2 (19 agosto)](./sesion4/): Funciones: currying, composición y aplicación.
 
 # Plataforma
 
