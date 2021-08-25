@@ -25,6 +25,7 @@ Todos son bienvenidos a tomar el curso, sin embargo, es recomendable tener habil
 - [Sesión 3.2 (12 agosto)](./sesion3/): Tipos en Haskell: clases.
 - [Sesión 4 (17 agosto)](./sesion4/): Funciones: operadores y otras mejoras sintácticas.
 - [Sesión 4.2 (19 agosto)](./sesion4/): Funciones: currying, composición y aplicación.
+- [Sesión 5 (24 agosto)](./sesion5/): Semigrupos y monoides.
 
 # Plataforma
 
