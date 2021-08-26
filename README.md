@@ -26,6 +26,8 @@ Todos son bienvenidos a tomar el curso, sin embargo, es recomendable tener habil
 - [Sesión 4 (17 agosto)](./sesion4/): Funciones: operadores y otras mejoras sintácticas.
 - [Sesión 4.2 (19 agosto)](./sesion4/): Funciones: currying, composición y aplicación.
 - [Sesión 5 (24 agosto)](./sesion5/): Semigrupos y monoides.
+- [Sesión 5.2 (26 agosto)](./sesion5/): Casos de uso para semigrupos y monoides.
+- [Sesión Extra (26 agosto)](./extras/curry_howard/): Correspondencia Curry-Howard, y demostraciones en Haskell.
 
 # Plataforma
 
