@@ -28,6 +28,7 @@ Todos son bienvenidos a tomar el curso, sin embargo, es recomendable tener habil
 - [Sesión 5 (24 agosto)](./sesion5/): Semigrupos y monoides.
 - [Sesión 5.2 (26 agosto)](./sesion5/): Casos de uso para semigrupos y monoides.
 - [Sesión Extra (26 agosto)](./extras/curry_howard/): Correspondencia Curry-Howard, y demostraciones en Haskell.
+- [Sesión 6 (31 agosto)](./sesion6/): Functores.
 
 # Plataforma
 
